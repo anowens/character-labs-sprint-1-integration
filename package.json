@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "cara",
+  "name": "character-labs-sprint-1-integration",
   "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
   "version": "0.2.11",
   "author": "LekoArts <hello@lekoarts.de>",
@@ -16,7 +16,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-cara": "^3.0.0",
+    "@lekoarts/gatsby-theme-cara": "^3.0.9",
     "gatsby": "^4.18.2",
     "gatsby-plugin-gatsby-cloud": "^4.18.1",
     "gatsby-plugin-manifest": "^4.18.1",

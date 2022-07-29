@@ -10,11 +10,11 @@ module.exports = {
     siteTitle: `Cara`,
     siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
     siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://characterlabssprint1integratio.gtsb.io/`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@anowens`,
   },
   plugins: [
     {
