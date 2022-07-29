@@ -36,7 +36,7 @@ const Footer = () => {
           <img width="30" height="30" src="https://img.lekoarts.de/gatsby/logo_v2_w30.png" alt="LekoArts Logo" />
         )}
         {` `}
-        <Link
+        {/* <Link
           aria-label="Link to the theme's GitHub repository"
           sx={{ ml: 2 }}
           href="https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-cara"
@@ -50,7 +50,7 @@ const Footer = () => {
           href="https://www.lekoarts.de?utm_source=cara&utm_medium=Theme"
         >
           LekoArts
-        </Link>
+        </Link> */}
       </Flex>
     </Box>
   )
