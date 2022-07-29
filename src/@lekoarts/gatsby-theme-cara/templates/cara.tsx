@@ -11,11 +11,11 @@ import Contact from "../components/contact"
 // static\frame - 1.png
 const Cara = () => (
   <Layout>
-   <Parallax pages={3}>
-      <Hero offset={0} factor={1} />
-      <Projects offset={1} factor={2} />
+   <Parallax pages={4}>
+      <Hero offset={0}/>
+      <Projects offset={1} factor={1.75} />
       
-      <About offset={1} factor={1} />
+      <About offset={2.5} factor={1} />
       <Contact offset={3} factor={1} />
     </Parallax>
     

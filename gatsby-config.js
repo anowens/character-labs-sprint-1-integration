@@ -13,7 +13,7 @@ module.exports = {
     siteUrl: `https://characterlabssprint1integratio.gtsb.io/`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    siteImage: `/frame-1.png`,
     author: `@anowens`,
   },
   plugins: [
