@@ -5,20 +5,22 @@ import Hero from "../components/hero"
 import Projects from "../components/projects"
 import About from "../components/about"
 import Contact from "../components/contact"
+import Why from "../components/why"
 // import Frame1 from "../../../../static/frame-1.png"
 
 
 // static\frame - 1.png
 const Cara = () => (
   <Layout>
-   <Parallax pages={4}>
+   <Parallax pages={5}>
       <Hero offset={0}/>
       <Projects offset={1} factor={1.75} />
       
       <About offset={2.5} factor={1} />
-      <Contact offset={3} factor={1} />
+      <Why offset={3} factor={1} />
+      <Contact offset={4} factor={1} />
     </Parallax>
-    
+    {/* <Why /> */}
   </Layout>
 )
 {/* <div>
